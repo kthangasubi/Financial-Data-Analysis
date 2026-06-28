@@ -5,8 +5,11 @@ This project analyzes financial data across 4 large retail companies in the Cons
 It uses 5 different datasets annual reports, options, dividends, stock prices, and stocks splits to produce a financial summary.
 
 # Companies analyzed
-The companies that were analyzed in this project were Costco Wholesale Corporation,Family Dollar Stores, Inc.,
-Big Lots, Inc., and Dillard's, Inc.
+The companies that were analyzed in this project were:
+Costco Wholesale Corporation,
+Family Dollar Stores, Inc.,
+Big Lots, Inc., 
+Dillard's, Inc.
 
 # Datasets used
 annualreports.sas7bdat : Fiscal Year Financials and sector/industry classifications
