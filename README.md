@@ -24,11 +24,17 @@ splits.sas7bdat : split history since 1999
 
 # Libraries Used
 haven       : Reading SAS files
+
 lubridate   : Date parsing and extraction
+
 dplyr       : Data manipulation and summarization
+
 stringr     : String cleaning
+
 fastDummies : Creating dummy variables
+
 tidyr       : Reshaping data (spread)
+
 purrr       : Joining multiple data frames (reduce)
 
 # Summary
@@ -73,9 +79,13 @@ Combined options (wide format), dividends, and split summaries into a single wid
 # Key Metrics Produced
 
 Sales-to-Industry ratio (with ANOVA results)
+
 Average call and put strike prices
+
 Total dividend payout per company
+
 Dividend yield (dividends / 2012 open price)
+
 Maximum and minimum stock split ratios
 
 
