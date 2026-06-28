@@ -13,9 +13,13 @@ Dillard's, Inc.
 
 # Datasets used
 annualreports.sas7bdat : Fiscal Year Financials and sector/industry classifications
+
 optionsfile.sas7bdat : Options contracts with strike prices and expiration dates
+
 divfile.sas7bdat : Dividend payment records
+
 pricesrevised.sas7bdat : Historical daily stock prices
+
 splits.sas7bdat : split history since 1999
 
 # Libraries Used
